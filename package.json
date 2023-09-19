@@ -1,0 +1,20 @@
+{
+  "name": "oss",
+  "version": "1.0.0",
+  "description": "OSS is a powerful and user-friendly open-source package for creating and managing a list of dependencies in the node_modules directory used as direct dependencies in applications. The module downloads the source files, which require clearance from the OSS team, and prepares the list of software used as a .csv file with the required information for clearance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aravind00Kumar/oss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aravind00Kumar/oss/issues"
+  },
+  "homepage": "https://github.com/Aravind00Kumar/oss#readme"
+}
