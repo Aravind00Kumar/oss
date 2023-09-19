@@ -1,5 +1,5 @@
 {
-  "name": "oss",
+  "name": "@everest/oss",
   "version": "1.0.0",
   "description": "OSS is a powerful and user-friendly open-source package for creating and managing a list of dependencies in the node_modules directory used as direct dependencies in applications. The module downloads the source files, which require clearance from the OSS team, and prepares the list of software used as a .csv file with the required information for clearance",
   "main": "index.js",
@@ -11,10 +11,13 @@
     "url": "git+https://github.com/Aravind00Kumar/oss.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Aravind Kumar P",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Aravind00Kumar/oss/issues"
   },
-  "homepage": "https://github.com/Aravind00Kumar/oss#readme"
+  "homepage": "https://github.com/Aravind00Kumar/oss#readme",
+  "directories": {
+    "test": "test"
+  }
 }
